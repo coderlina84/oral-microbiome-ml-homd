@@ -1,5 +1,3 @@
-# oral-microbiome-ml-homd
-
 Markdown
 # Machine Learning Classification of Periodontal Pathogens via HOMD Biomarkers
 
